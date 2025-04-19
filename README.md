@@ -49,6 +49,17 @@ Interface screenshots are available in the `Images/` directory:
 
 ---
 
+## Team Members
+
+| Name                | Roll No       | Role                             |
+|---------------------|---------------|----------------------------------|
+| Shams Shadan Khan   | 22BCG10128    | Frontend Developer               |
+| Mohd Ameen Husain   | 22BSA10209    | Backend Developer                |
+| Aamir Khan          | 22BCG10148    | Full Stack Support and Testing   |
+
+---
+
+
 ## Installation and Setup
 
 To run MediBoard locally:
